@@ -1,0 +1,20 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "PIR": {
+      "type": "boolean"
+    },
+    "LUX": {
+      "type": "number"
+    },
+    "LED": {
+      "type": "string"
+    }
+  }
+}
+
+{
+  "LUX": 24,
+  "PIR": false,
+  "LED": "off"
+}
